@@ -6,7 +6,7 @@ AUTHOR = ''
 SITENAME = ''
 SITEURL = 'http://daveandmolly.org'
 
-THEME = 'themes/medius'
+THEME = './themes/medius'
 
 PATH = 'content'
 
